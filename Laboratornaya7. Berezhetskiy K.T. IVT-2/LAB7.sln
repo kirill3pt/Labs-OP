@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie1", "Berezhetskiy K.T. IVT-2 LAB7\Zadanie1.csproj", "{89C35E64-0B08-4AB6-A8DB-69E7F9613F2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie2", "Zadanie2\Zadanie2.csproj", "{5B26DE8F-BB15-4FD9-B165-CF17303DE8A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C35E64-0B08-4AB6-A8DB-69E7F9613F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C35E64-0B08-4AB6-A8DB-69E7F9613F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C35E64-0B08-4AB6-A8DB-69E7F9613F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C35E64-0B08-4AB6-A8DB-69E7F9613F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B26DE8F-BB15-4FD9-B165-CF17303DE8A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B26DE8F-BB15-4FD9-B165-CF17303DE8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B26DE8F-BB15-4FD9-B165-CF17303DE8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B26DE8F-BB15-4FD9-B165-CF17303DE8A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69AD95B9-240B-4BA7-858C-AF62EA896832}
+	EndGlobalSection
+EndGlobal
