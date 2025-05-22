@@ -1,0 +1,7 @@
+C:\Users\Kirill\source\repos\Berezhetskiy K.T. IVT-2 LAB10\Zadanie2\bin\Debug\Zadanie2.exe.config
+C:\Users\Kirill\source\repos\Berezhetskiy K.T. IVT-2 LAB10\Zadanie2\bin\Debug\Zadanie2.exe
+C:\Users\Kirill\source\repos\Berezhetskiy K.T. IVT-2 LAB10\Zadanie2\bin\Debug\Zadanie2.pdb
+C:\Users\Kirill\source\repos\Berezhetskiy K.T. IVT-2 LAB10\Zadanie2\obj\Debug\Zadanie2.csproj.AssemblyReference.cache
+C:\Users\Kirill\source\repos\Berezhetskiy K.T. IVT-2 LAB10\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\Berezhetskiy K.T. IVT-2 LAB10\Zadanie2\obj\Debug\Zadanie2.exe
+C:\Users\Kirill\source\repos\Berezhetskiy K.T. IVT-2 LAB10\Zadanie2\obj\Debug\Zadanie2.pdb
